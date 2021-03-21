@@ -15,7 +15,7 @@ This application allows its users to be able to track their their deposit and wi
 This project does not need any installation,rather it is currently hosted at Heroku
 <strong>Usage</strong>
 
-The application is easy to use. It allows the user to be able to be able to track their spending.
+The application is easy to use. It gives the users the ability to track their spending.
 
 <strong>Support and Contribution</strong>
 If you have any question please email me at nwizutoks@gmail.com
