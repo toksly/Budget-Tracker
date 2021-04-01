@@ -12,7 +12,7 @@ This application allows its users to be able to track their their deposit and wi
 
 <strong>Installation</strong>
 
-This project does not need any installation,rather it is currently hosted at Heroku
+This project does not need any installation,rather it is currently hosted at Heroku via the link https://toksly-budget-tracker.herokuapp.com/
 <strong>Usage</strong>
 
 The application is easy to use. It gives the users the ability to track their spending.
